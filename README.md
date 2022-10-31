@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="https://raw.githubusercontent.com/alexrossetto/ignews/master/public/images/avatar.svg" alt="rocketshoes" width="100px"/>
+<img src="https://raw.githubusercontent.com/AlexRossetto/ignews/master/public/images/avatar.svg" alt="rocketshoes" width="100px"/>
 
 </h1>
 
